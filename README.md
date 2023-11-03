@@ -1,6 +1,6 @@
 # Analisis de Datos - TP Grupal
 
- El trabajo se basa en el análisis exploratorio y predictivo de un conjunto de datos relacionados con ['Taxi trip data NYC'](https://www.kaggle.com/datasets/anandaramg/taxi-trip-data-nyc/) que obtuvimos desde [Kaggle](https://www.kaggle.com/).
+ El trabajo se basa en el análisis exploratorio y predictivo de un conjunto de datos relacionados con ['NYC Taxi Trip Record Data'](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) que obtuvimos desde [NYC Gov](https://www.nyc.gov/).
 
 ## Miembros del Grupo:
 - Octavio Deshays - octaviodeshays@gmail.com
